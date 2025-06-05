@@ -78,6 +78,7 @@ export const TimerDemo = () => {
 }
 
 // extensions 
+// add more than that then add into other
 // Multiple Timers in Parallel
 // Timers in Background Tabs
 // Sync Timers Across Tabs 
